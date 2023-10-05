@@ -14,6 +14,8 @@
 {結果}  
 - リモートのリポジトリにマークダウン変換したファイルが生成されます
 
+  
+![docx2md](https://github.com/watanabe3tipapa/msword-markdown-ce/assets/1008132/e499356d-ece5-484a-b405-cb923e2c2ff5)
 ---
 ^C
 
