@@ -1,4 +1,4 @@
-# msword-makdown-ce
+# msword-markdown-ce
   
 ## Usage
 {前提}
